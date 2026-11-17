@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ReviewPro, part of the Shiji Group, offers the Reviewpro Reputation product that helps hotels manage and improve their online reputation. The solution provides tools for gathering guest feedback, monitoring review sites, and responding to guest comments, aiming to shape guest experiences beyond just rooms. It integrates with Shiji’s broader hospitality platform, including Daylight PMS and other services.
+ReviewPro is a Shiji Group product that helps hotels manage their online reputation and guest satisfaction. The platform provides tools for monitoring reviews, responding to guest feedback, and gaining insights to improve service quality. It includes training, webinars, and a 24/7 support center, targeting hospitality operators seeking to enhance their brand perception and drive loyalty.
 
-**Areas:** Company · Hospitality · Reputation · Reviews · SaaS
+**Areas:** Company · Hospitality · Reputation Management · SaaS · Reviews
 
 ## ReviewPro on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for ReviewPro is published on APIs.io rather than in this re
 
 ### APIs (1)
 
-- [ReviewPro Reputation API](https://apis.io/apis/reviewpro/reviewpro-reputation-api/) — ReviewPro Reputation provides APIs for accessing hotel reputation data and guest feedback insights.
+- [ReviewPro Reputation API](https://apis.io/apis/reviewpro/reviewpro-reputation-api/) — ReviewPro provides a reputation management platform for hotels, offering tools to monitor and respond to guest reviews.
 
 ### Published properties
 
@@ -90,17 +90,16 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.shijigroup.com/)
+- [Website](https://shijigroup.com/)
 - [Documentation](https://www.shijigroup.com/reviewpro-reputation)
-- [API reference](https://www.shijigroup.com/reviewpro-reputation)
-- [Pricing](https://www.shijigroup.com/reviewpro-reputation)
+- [Getting started](https://www.shijigroup.com/reviewpro-reputation/features)
 - [Support](https://www.shijigroup.com/support)
 - [Terms of service](https://www.shijigroup.com/legal/legal-notice)
 - [Privacy policy](https://www.shijigroup.com/legal/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 18.8** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 20.3** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -108,10 +107,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 16.4 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 21.4 |
-| Access clarity | 36.2 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 34.2 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -126,7 +125,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -138,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reviewpro/](https://apis.io/providers/reviewpro/).
 
